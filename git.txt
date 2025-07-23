@@ -1,0 +1,89 @@
+commit cf2485a4690e91dfc2cfcaf00704fb8f7499b3f0
+Author: Jenna <jennar2505@gmail.com>
+Date:   Sat May 3 12:22:47 2025 +0200
+
+    final code, builds model prints out losses and accuracy, takes user input and correctly classifies
+
+commit 56be6579a7e8a24ca18577aaf73777a1e8889ed7
+Author: Jenna <jennar2505@gmail.com>
+Date:   Thu May 1 18:06:57 2025 +0200
+
+    fully working code that takes user input and returns label
+
+commit 172c08abbeb794ff2aaa810ac4892930dde27299
+Author: Jenna <jennar2505@gmail.com>
+Date:   Thu May 1 17:29:03 2025 +0200
+
+    output commands edited out for 'pure' training
+
+commit 3eb0eca4723c5314d7221e443a61fec3ce5bef7c
+Author: Jenna <jennar2505@gmail.com>
+Date:   Thu May 1 17:11:15 2025 +0200
+
+    All hyperparemeters added after testing and new stopping criteria
+
+commit a443bca5373fd20a771ceef5b48d05cfc1efa806
+Author: Jenna <jennar2505@gmail.com>
+Date:   Thu May 1 14:54:50 2025 +0200
+
+    code to compute loss and graph it
+
+commit 47e643a5e0ab2f1d3864e87726683a71c1a9fbf5
+Author: Jenna <jennar2505@gmail.com>
+Date:   Thu May 1 14:13:30 2025 +0200
+
+    corrected trainer and added labels
+
+commit 887309e5b050dea3704ccdd81eafee436f38adfe
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon Apr 28 15:27:59 2025 +0200
+
+    definition to print
+
+commit 60c8fb6fa58b14fae8bc2c7b4041c44021244592
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon Apr 28 15:22:59 2025 +0200
+
+    training loop added
+
+commit 5f1cfde4d724eca3330a64b4e11d98e84e554195
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon Apr 28 15:21:42 2025 +0200
+
+    model, loss and optimise code added
+
+commit 228c66b61b1a8b842e3cd57d154aa18e14cc89c0
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon Apr 28 15:18:42 2025 +0200
+
+    definition of ANN model
+
+commit ad444602c0ff6a321f31900b83316e2bc8fd6b6c
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon Apr 28 14:59:52 2025 +0200
+
+    data loaders added
+
+commit 75d9719befd0a825f84e5ed5d7090a0bf6e1988d
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon Apr 28 14:57:43 2025 +0200
+
+    reshape data
+
+commit def18c52861a0b2b9e48296357beeaffca327044
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon Apr 28 14:56:56 2025 +0200
+
+    split training into training and validation set
+
+commit 727db3cb4f87138bb588d9490831bde616cadbfc
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon Apr 28 14:56:27 2025 +0200
+
+    create variables for for MNIST data
+
+commit 813c696ad3a5c4d750a932ee23a6f6b1d6f1dc17
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon Apr 28 14:53:27 2025 +0200
+
+    imports done and load FashionMNIST dataset
